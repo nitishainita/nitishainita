@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science,AI,Machine Learning,Deep Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate with one who wants to lean in above mention area.
-- 📫 How to reach me ->you can reach me though nitishainita@gmail.com
+- 📫 How to reach me ->you can reach me with nitishainita@gmail.com
 
 <!---
 nitishainita/nitishainita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
