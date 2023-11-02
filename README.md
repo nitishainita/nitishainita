@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nitish Kumar(@nitishainita),I am a final year M.Tech. scholar from NIT Agartala.my specialisation is in Artificial Intelligence
-- 👀 I’m interested in Data Science,AI,Machine Learning,Deep Learning
+- 👋 Hi, I’m Nitish Kumar(@nitishainita), I am working as an assistant professor in GMRIT Andhra Pradesh.my specialization is in Artificial Intelligence
+- 👀 I’m interested in Data Science, AI, Machine Learning, Deep Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate with one who wants to lean in above mention area.
+- 💞️ I’m looking to collaborate with one who wants to lean in the above-mentioned area.
 - 📫 How to reach me ->you can reach me with nitishainita@gmail.com
 
 <!---
